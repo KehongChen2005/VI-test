@@ -1,4 +1,5 @@
 #include <stdio.h>
+//this program is written in C
 int main();
 int num=1;
 for(num=1;num<=250;num++){
