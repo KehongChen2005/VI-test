@@ -5,9 +5,9 @@ int num=1;
 for(num=1;num<=250;num++){
     if(num%3==0)
     printf("Fizz");
-    elseif(num%5==0)
+    else if(num%5==0)
     printf("Fizzy");
-    elseif(num%7==0)
+    else if(num%7==0)
     printf("Buzz");
     printf(", ")
 }
